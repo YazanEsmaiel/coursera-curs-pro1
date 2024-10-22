@@ -1,0 +1,259 @@
+
+
+
+.section-header{
+    
+    display: flex;
+    
+    
+}
+
+.section-header .logo img{
+    width: 90px;
+    margin-left: -22px;
+    
+}
+
+
+.apps-s a{
+    color: #444747;
+    margin-top: 70px;   
+    
+
+}
+
+.apps-s span{
+    margin-top: 10px;
+    margin-left: -5px;
+    padding-right: 20px;
+}
+
+.photosicon a{
+    text-decoration: none;
+    color: #444747;
+    display: flex;
+    margin-top: 13px;
+    padding-right: 20px;
+}
+
+.section-header .gmail a{
+    text-decoration: none;
+    color: #444747;
+}
+
+#search-window::placeholder{
+    padding-left: 15px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 400;
+    
+}
+
+.section-header .gmail{
+    
+    display: flex;
+    margin-top: 13px;
+    padding-right: 20px;
+}
+
+.google-logo{
+    
+    margin-top: 120px;
+    flex-direction: column;
+    
+}
+.google-logo .google-img{
+    
+    width: 380px;
+    padding-left: 750px;
+    padding-top: -50px;
+    display: flex;
+    position: absolute;
+    z-index: -2;
+    
+    
+}
+.divsearch input{
+    width: 600px;
+    height: 40px;
+    border-radius: 30px;
+    border-color: rgba(0, 0, 0, 0.2);
+    
+}
+
+
+
+.divsearch{     
+    padding-left: 635px;
+    padding-top: 200px;         
+    
+    
+}
+.Buttons{
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.Buttons .input-but{
+    margin-left: 800px;
+    margin-top: 20px;
+}
+
+
+
+
+#lucky-but{
+    width: 152px;
+    height: 40px;
+    align-items: center;
+    background-color: #F8F9FA;
+    border: none;
+    border-radius: 4px;
+}
+
+#google-sea{
+    width: 152px;
+    height: 40px;
+    align-items: center;
+    background-color: #F8F9FA;
+    border: none;
+    border-radius: 4px;
+}
+
+.lucky:hover{
+    border: 1px;
+    background-color: #444747;
+}
+.gmail:hover{
+    border: 1px;
+    color: aqua;
+}
+
+.h6div{
+    
+    display: flex;
+    justify-content: center;
+}
+
+h6{
+    font-family: sans-serif;
+    align-content: center;
+    font-weight: 200;
+    color: #474747;
+    font-size: 14px;
+}
+
+h6 a{
+    text-decoration: none;
+}
+
+.country{
+    background-color: #F8F9FA;
+    display: flex;
+    justify-content: end;
+    height: 30px;
+    margin-top: 270px;
+    width: 100%;
+    
+}
+    
+.country span{
+    text-transform: capitalize;
+    margin: auto;
+    padding-left: 1800px;
+    font-family: sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: end;
+    margin: center;
+    background-color: #F8F9FA;
+    height: 40px;
+    margin-bottom: 100px;
+    width: 100%;
+    
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    
+    color: #444747;
+    justify-content: end;
+    
+    
+}
+
+nav ul a{
+    text-decoration: none;
+    color: #444747;
+    margin: auto;
+    list-style-type: none;
+    justify-content: end;
+    
+}
+
+#li1{
+    font-family: sans-serif;
+    padding-left: 10px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+
+#li2{
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+
+#li3{
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-right: 950px;
+    padding-top: 10px;
+}
+
+#li4{
+    font-family: sans-serif;    
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 10px;
+    width: 200px;
+}
+
+#li5{
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+
+#li6{
+    
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+#li7{
+    
+    font-family: sans-serif;
+    padding-left: 40px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+input:hover{
+    background-color: rgb(255, 128, 128);
+}
+#lucky-but:hover{
+    background-color: #b6ffff;
+}
